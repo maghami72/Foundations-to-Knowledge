@@ -1,0 +1,65 @@
+
+# ==========================================
+# OBSIDIAN VAULT - GITIGNORE
+# Islamic Studies & Philosophy Research
+# ==========================================
+
+# --- Obsidian workspace ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# --- Obsidian temporary files ---
+.trash/
+.obsidian/hotkeys.json.bak
+
+# --- Operating system files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# --- Temporary and backup files ---
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+~$*
+
+# --- Microsoft Office temporary files ---
+~$*.doc
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# --- PDF temporary files ---
+*.part
+*.crdownload
+
+# --- Editor files ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Logs ---
+*.log
+
+# --- Node / development dependencies ---
+node_modules/
+dist/
+build/
+
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ==========================================
+# IMPORTANT:
+# Keep research notes, templates, metadata,
+# plugins, PDFs, DOCX, images and attachments.
+# ==========================================
